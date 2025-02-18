@@ -47,4 +47,4 @@ jobs:
     # Step to push the Docker image to Azure Container Registry
     - name: Push Docker image
       run: |
-        docker push gacontainer1607900.azurecr.i/my-app:latest  
+        docker push gacontainer1607900.azurecr.io/my-app:latest  
